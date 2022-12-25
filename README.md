@@ -1,4 +1,4 @@
-# calculatorapp
+# ios Smart calculator app
 
 A new Flutter project.
 
